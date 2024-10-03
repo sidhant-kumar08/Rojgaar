@@ -21,6 +21,15 @@ Thankyou
 - **Authentication**: JWT (JSON Web Token)
 - **Cloudinary**: For image uploading and handling
 
+## Screenshots
+![r1](https://github.com/user-attachments/assets/509913e0-ff0e-4636-b5a8-56a68d8a288e)
+![r2](https://github.com/user-attachments/assets/e2271ec0-df3d-4dd7-b6cf-f1523f7fcc64)
+![r3](https://github.com/user-attachments/assets/d8f06df4-b42c-4e55-85e4-1fa78c66d348)
+![r4](https://github.com/user-attachments/assets/61192d50-2e7e-43f8-ba0e-d3274108cb50)
+
+
+
+
 ## Installation
 1. Clone the repository:
     ```bash
