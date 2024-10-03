@@ -10,6 +10,11 @@ Rojgaar is a job portal built with the MERN stack, featuring an admin dashboard 
 - Integrated with Redux for state management
 - Clean and customizable UI with shadcn components
 
+## NOTE
+If you ever visit the website [Rojgaar](rojgaar.vercel.app) there is high possibility that the backend is down because it's hosted on free platform "render" make sure to wait for some time after making any request.
+
+Thankyou
+
 ## Tech Stack
 - **Frontend**: React, Redux, Shadcn, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB
