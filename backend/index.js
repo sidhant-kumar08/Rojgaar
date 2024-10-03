@@ -22,7 +22,7 @@ app.use(urlencoded({extended: true}))
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
-    origin: 'https://rojgaar.vercel.app/',
+    origin: 'https://rojgaar.vercel.app',
     credentials: true,
 }))
 
