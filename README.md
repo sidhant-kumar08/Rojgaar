@@ -21,16 +21,32 @@ Rojgaar is a job portal built with the MERN stack, featuring an admin dashboard 
     ```bash
     git clone https://github.com/sidhant-kumar08/rojgaar.git
     ```
-2. Navigate to the project folder and install dependencies:
+2. Navigate to the project folder
     ```bash
     cd rojgaar
+    ```
+2. Navigate to the project frontend folder and install dependencies:
+    ```bash
+    cd frontend
+    npm install
+    ```
+2. Navigate to the project backend folder and install dependencies:
+    ```bash
+    cd backend
     npm install
     ```
 3. Set up environment variables for MongoDB, JWT secret, etc.
-4. Start the frontend and backend servers:
+
+4. Start the frontend server:
     ```bash
     npm run dev
     ```
+4. Start the backend server:
+    ```bash
+    node index.js or nodemon [index.js]
+    ```
+5. Frontend server will run on localhost:5173
+5. backend server will run on localhost:4000
 
 ## Admin Panel
 Admins can manage jobs, view applications, and control user access from the dedicated admin page.
