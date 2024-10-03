@@ -1,6 +1,6 @@
 # Rojgaar
 
-**Rojgaar** is a modern job portal built with the MERN stack, featuring an admin dashboard for managing job postings, users, and more. It utilizes **Redux** for state management and **shadcn** for a customizable UI experience.
+Rojgaar is a job portal built with the MERN stack, featuring an admin dashboard to manage jobs and users. It uses Redux for efficient state management and shadcn for a customizable UI. The platform allows users to search and apply for jobs, while admins can control listings and monitor applications.
 
 ## Features
 - User registration and login
